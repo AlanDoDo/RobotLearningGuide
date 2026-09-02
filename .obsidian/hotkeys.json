@@ -1,0 +1,26 @@
+{
+  "obsidian-excalidraw-plugin:fullscreen": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "keyboard-analyzer:open-shortcuts-analyzer-view": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ],
+  "cmdr:macro-0": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ]
+}
