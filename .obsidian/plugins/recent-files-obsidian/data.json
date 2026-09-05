@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "系统性思维方法提示词",
+      "path": "系统性思维方法提示词.md"
+    },
+    {
       "basename": "README",
       "path": "人形机器人/开源项目/OpenLong/README.md"
     },
     {
       "basename": "人形机器人开源案例",
       "path": "人形机器人/开源项目/人形机器人开源案例.md"
+    },
+    {
+      "basename": "青龙电气原理图-开源版",
+      "path": "人形机器人/开源项目/OpenLong/青龙电气原理图-开源版.pdf"
     },
     {
       "basename": "视觉模组",
@@ -47,10 +55,6 @@
     {
       "basename": "金融投资系统性公司研究总提示词",
       "path": "金融投资系统性公司研究总提示词.md"
-    },
-    {
-      "basename": "系统性思维方法提示词",
-      "path": "系统性思维方法提示词.md"
     },
     {
       "basename": "行业情报账号",
@@ -195,10 +199,6 @@
     {
       "basename": "比特币",
       "path": "交易投资/投资策略/加密货币/比特币.md"
-    },
-    {
-      "basename": "20260830",
-      "path": "交易投资/每日复盘/20260830.md"
     }
   ],
   "omittedPaths": [],
