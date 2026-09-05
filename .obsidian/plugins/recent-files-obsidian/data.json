@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "人形机器人/开源项目/OpenLong/README.md"
+    },
+    {
+      "basename": "人形机器人开源案例",
+      "path": "人形机器人/开源项目/人形机器人开源案例.md"
+    },
+    {
+      "basename": "视觉模组",
+      "path": "人形机器人/images/视觉模组.md"
+    },
+    {
+      "basename": "人形机器人产业链",
+      "path": "人形机器人/images/人形机器人产业链.png"
+    },
+    {
+      "basename": "关节模组",
+      "path": "人形机器人/images/关节模组.png"
+    },
+    {
+      "basename": "关节模组",
+      "path": "人形机器人/images/关节模组.md"
+    },
+    {
+      "basename": "关键技术",
+      "path": "人形机器人/images/关键技术.png"
+    },
+    {
+      "basename": "Pasted Image 20260301214206_139",
+      "path": "人形机器人/assets/具身智能概念/Pasted Image 20260301214206_139.png"
+    },
+    {
+      "basename": "Pasted Image 20260228140659_497",
+      "path": "人形机器人/assets/具身智能概念/Pasted Image 20260228140659_497.png"
+    },
+    {
+      "basename": "Pasted Image 20260228134954_943",
+      "path": "人形机器人/assets/具身智能概念/Pasted Image 20260228134954_943.png"
+    },
+    {
+      "basename": "财报分析指南",
+      "path": "交易投资/投资策略/财报分析指南.md"
+    },
+    {
+      "basename": "金融投资系统性公司研究总提示词",
+      "path": "金融投资系统性公司研究总提示词.md"
+    },
+    {
       "basename": "系统性思维方法提示词",
       "path": "系统性思维方法提示词.md"
     },
@@ -45,10 +93,6 @@
       "path": "人形机器人/专业名词解释.md"
     },
     {
-      "basename": "财报分析指南",
-      "path": "交易投资/投资策略/财报分析指南.md"
-    },
-    {
       "basename": "资金分配",
       "path": "交易投资/投资策略/资金分配.md"
     },
@@ -67,22 +111,6 @@
     {
       "basename": "方案设计",
       "path": "人形机器人/场景策划/方案设计.md"
-    },
-    {
-      "basename": "人形机器人开源案例",
-      "path": "人形机器人/开源项目/人形机器人开源案例.md"
-    },
-    {
-      "basename": "Pasted Image 20260301214206_139",
-      "path": "人形机器人/assets/具身智能概念/Pasted Image 20260301214206_139.png"
-    },
-    {
-      "basename": "Pasted Image 20260228140659_497",
-      "path": "人形机器人/assets/具身智能概念/Pasted Image 20260228140659_497.png"
-    },
-    {
-      "basename": "Pasted Image 20260228134954_943",
-      "path": "人形机器人/assets/具身智能概念/Pasted Image 20260228134954_943.png"
     },
     {
       "basename": "WAM",
@@ -171,34 +199,6 @@
     {
       "basename": "20260830",
       "path": "交易投资/每日复盘/20260830.md"
-    },
-    {
-      "basename": "复盘整理",
-      "path": "交易投资/每日复盘/复盘整理.md"
-    },
-    {
-      "basename": "美股思考",
-      "path": "交易投资/投资策略/美股/美股思考.md"
-    },
-    {
-      "basename": "大盘定投",
-      "path": "交易投资/投资策略/A股/大盘定投.md"
-    },
-    {
-      "basename": "交易",
-      "path": "交易投资/短线交易/交易.md"
-    },
-    {
-      "basename": "金融体系关系",
-      "path": "交易投资/金融体系关系.md"
-    },
-    {
-      "basename": "入场形态",
-      "path": "交易投资/assets/入场形态.md"
-    },
-    {
-      "basename": "A股短线交易策略",
-      "path": "交易投资/assets/A股短线交易策略.md"
     }
   ],
   "omittedPaths": [],
