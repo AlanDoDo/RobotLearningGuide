@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "方法",
-      "path": "自媒体流量/X平台推文/方法.md"
+      "basename": "20260911",
+      "path": "自媒体流量/X平台推文/推文/20260911.md"
+    },
+    {
+      "basename": "20260910",
+      "path": "自媒体流量/X平台推文/推文/20260910.md"
+    },
+    {
+      "basename": "HLFdMj0aQAAoeTl",
+      "path": "交易投资/assets/assets/A股短线交易策略/HLFdMj0aQAAoeTl.jpg"
+    },
+    {
+      "basename": "金融体系关系",
+      "path": "交易投资/金融体系关系.md"
+    },
+    {
+      "basename": "A股短线交易策略",
+      "path": "交易投资/assets/A股短线交易策略.md"
+    },
+    {
+      "basename": "YOLO系列文档",
+      "path": "机器人学习路线/计算机科学与技术/计算机视觉/YOLO系列文档.md"
     },
     {
       "basename": "20260906",
       "path": "自媒体流量/X平台推文/推文/20260906.md"
+    },
+    {
+      "basename": "系统性思维方法提示词",
+      "path": "系统性思维方法提示词.md"
+    },
+    {
+      "basename": "机器人测试",
+      "path": "人形机器人/人形机器人测试/机器人测试.md"
+    },
+    {
+      "basename": "方法",
+      "path": "自媒体流量/X平台推文/方法.md"
     },
     {
       "basename": "推文",
@@ -17,16 +49,8 @@
       "path": "自媒体流量/X平台推文/X流量推送机制.md"
     },
     {
-      "basename": "系统性思维方法提示词",
-      "path": "系统性思维方法提示词.md"
-    },
-    {
       "basename": "README",
       "path": "人形机器人/README.md"
-    },
-    {
-      "basename": "机器人测试",
-      "path": "人形机器人/人形机器人测试/机器人测试.md"
     },
     {
       "basename": "file-20260906030300270",
@@ -175,30 +199,6 @@
     {
       "basename": "书籍推荐",
       "path": "书籍推荐.md"
-    },
-    {
-      "basename": "一些思考",
-      "path": "一些思考.md"
-    },
-    {
-      "basename": "20260706 1",
-      "path": "交易投资/每日复盘/20260706 1.md"
-    },
-    {
-      "basename": "学习路径指南",
-      "path": "机器人学习路线/学习路径指南.md"
-    },
-    {
-      "basename": "主成分分析",
-      "path": "机器人学习路线/人工智能与新兴主题/人工智能与自主性/主成分分析.md"
-    },
-    {
-      "basename": "模仿学习",
-      "path": "机器人学习路线/人工智能与新兴主题/人工智能与自主性/模仿学习.md"
-    },
-    {
-      "basename": "马氏距离",
-      "path": "机器人学习路线/人工智能与新兴主题/人工智能与自主性/马氏距离.md"
     }
   ],
   "omittedPaths": [],
