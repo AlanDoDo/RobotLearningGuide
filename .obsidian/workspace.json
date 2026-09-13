@@ -65,12 +65,14 @@
             "id": "6585be45ec2a8ada",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "交易投资/金融体系关系.md"
+                "file": "交易投资/投资策略/财报分析指南.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "金融体系关系"
+              "icon": "lucide-file",
+              "title": "财报分析指南"
             }
           },
           {
@@ -79,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自媒体流量/X平台推文/推文/20260911.md",
+                "file": "机器人学习路线/Robot创业.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260911"
+              "title": "Robot创业"
             }
           },
           {
@@ -116,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -301,15 +303,19 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "b5e468bf35d7041b",
+  "active": "6585be45ec2a8ada",
   "lastOpenFiles": [
-    "自媒体流量/X平台推文/推文/20260910.md",
-    "自媒体流量/X平台推文/推文/20260911.md",
-    "交易投资/assets/assets/A股短线交易策略/HLFdMj0aQAAoeTl.jpg",
+    "交易投资/投资策略/投资策略.md",
+    "交易投资/投资策略/财报分析指南.md",
     "交易投资/金融体系关系.md",
     "交易投资/assets/A股短线交易策略.md",
-    "机器人学习路线/计算机科学与技术/计算机视觉/YOLO系列文档.md",
+    "机器人学习路线/Robot创业.md",
+    "机器人学习路线/学习路径指南.md",
     "自媒体流量/X平台推文/推文/20260906.md",
+    "自媒体流量/X平台推文/推文/20260911.md",
+    "自媒体流量/X平台推文/推文/20260910.md",
+    "交易投资/assets/assets/A股短线交易策略/HLFdMj0aQAAoeTl.jpg",
+    "机器人学习路线/计算机科学与技术/计算机视觉/YOLO系列文档.md",
     "系统性思维方法提示词.md",
     "人形机器人/人形机器人测试/机器人测试.md",
     "自媒体流量/X平台推文/方法.md",
@@ -341,14 +347,10 @@
     "人形机器人/images/人形机器人产业链.png",
     "人形机器人/images/关节模组.png",
     "人形机器人/images/关节模组.md",
-    "交易投资/投资策略/财报分析指南.md",
     "金融投资系统性公司研究总提示词.md",
     "自媒体流量/小红书/行业情报账号.md",
     "自媒体流量/小红书/未命名.md",
     "自媒体流量/小红书/图文.md",
-    "自媒体流量/小红书/文章/20260904六条技术路线.md",
-    "工作/模拟问答.md",
-    "工作/简历.md",
     "未命名.canvas"
   ]
 }

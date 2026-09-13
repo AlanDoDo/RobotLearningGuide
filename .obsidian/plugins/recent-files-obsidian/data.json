@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "财报分析指南",
+      "path": "交易投资/投资策略/财报分析指南.md"
+    },
+    {
+      "basename": "投资策略",
+      "path": "交易投资/投资策略/投资策略.md"
+    },
+    {
+      "basename": "金融体系关系",
+      "path": "交易投资/金融体系关系.md"
+    },
+    {
+      "basename": "A股短线交易策略",
+      "path": "交易投资/assets/A股短线交易策略.md"
+    },
+    {
+      "basename": "Robot创业",
+      "path": "机器人学习路线/Robot创业.md"
+    },
+    {
+      "basename": "学习路径指南",
+      "path": "机器人学习路线/学习路径指南.md"
+    },
+    {
+      "basename": "20260906",
+      "path": "自媒体流量/X平台推文/推文/20260906.md"
+    },
+    {
       "basename": "20260911",
       "path": "自媒体流量/X平台推文/推文/20260911.md"
     },
@@ -13,20 +41,8 @@
       "path": "交易投资/assets/assets/A股短线交易策略/HLFdMj0aQAAoeTl.jpg"
     },
     {
-      "basename": "金融体系关系",
-      "path": "交易投资/金融体系关系.md"
-    },
-    {
-      "basename": "A股短线交易策略",
-      "path": "交易投资/assets/A股短线交易策略.md"
-    },
-    {
       "basename": "YOLO系列文档",
       "path": "机器人学习路线/计算机科学与技术/计算机视觉/YOLO系列文档.md"
-    },
-    {
-      "basename": "20260906",
-      "path": "自媒体流量/X平台推文/推文/20260906.md"
     },
     {
       "basename": "系统性思维方法提示词",
@@ -105,10 +121,6 @@
       "path": "人形机器人/assets/具身智能概念/Pasted Image 20260228134954_943.png"
     },
     {
-      "basename": "财报分析指南",
-      "path": "交易投资/投资策略/财报分析指南.md"
-    },
-    {
       "basename": "金融投资系统性公司研究总提示词",
       "path": "金融投资系统性公司研究总提示词.md"
     },
@@ -153,10 +165,6 @@
       "path": "交易投资/投资策略/资金分配.md"
     },
     {
-      "basename": "投资策略",
-      "path": "交易投资/投资策略/投资策略.md"
-    },
-    {
       "basename": "模拟面试",
       "path": "工作/模拟面试.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "创新性项目思考",
       "path": "创新性项目思考.md"
-    },
-    {
-      "basename": "日常任务",
-      "path": "日常任务.md"
-    },
-    {
-      "basename": "书籍推荐",
-      "path": "书籍推荐.md"
     }
   ],
   "omittedPaths": [],
