@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "人形机器人/README.md"
+    },
+    {
+      "basename": "机器人架构",
+      "path": "人形机器人/机器人架构.md"
+    },
+    {
+      "basename": "机器人测试",
+      "path": "人形机器人/人形机器人测试/机器人测试.md"
+    },
+    {
+      "basename": "方案设计",
+      "path": "人形机器人/场景策划/方案设计.md"
+    },
+    {
+      "basename": "专业名词解释",
+      "path": "人形机器人/专业名词解释.md"
+    },
+    {
+      "basename": "具身智能概念",
+      "path": "人形机器人/具身智能概念.md"
+    },
+    {
+      "basename": "学习路径指南",
+      "path": "机器人学习路线/学习路径指南.md"
+    },
+    {
+      "basename": "Robot创业",
+      "path": "机器人学习路线/Robot创业.md"
+    },
+    {
+      "basename": "Demo",
+      "path": "机器人学习路线/Demo.png"
+    },
+    {
       "basename": "财报分析指南",
       "path": "交易投资/投资策略/财报分析指南.md"
     },
@@ -15,14 +51,6 @@
     {
       "basename": "A股短线交易策略",
       "path": "交易投资/assets/A股短线交易策略.md"
-    },
-    {
-      "basename": "Robot创业",
-      "path": "机器人学习路线/Robot创业.md"
-    },
-    {
-      "basename": "学习路径指南",
-      "path": "机器人学习路线/学习路径指南.md"
     },
     {
       "basename": "20260906",
@@ -49,10 +77,6 @@
       "path": "系统性思维方法提示词.md"
     },
     {
-      "basename": "机器人测试",
-      "path": "人形机器人/人形机器人测试/机器人测试.md"
-    },
-    {
       "basename": "方法",
       "path": "自媒体流量/X平台推文/方法.md"
     },
@@ -63,10 +87,6 @@
     {
       "basename": "X流量推送机制",
       "path": "自媒体流量/X平台推文/X流量推送机制.md"
-    },
-    {
-      "basename": "README",
-      "path": "人形机器人/README.md"
     },
     {
       "basename": "file-20260906030300270",
@@ -149,18 +169,6 @@
       "path": "工作/简历.md"
     },
     {
-      "basename": "机器人架构",
-      "path": "人形机器人/机器人架构.md"
-    },
-    {
-      "basename": "具身智能概念",
-      "path": "人形机器人/具身智能概念.md"
-    },
-    {
-      "basename": "专业名词解释",
-      "path": "人形机器人/专业名词解释.md"
-    },
-    {
       "basename": "资金分配",
       "path": "交易投资/投资策略/资金分配.md"
     },
@@ -171,10 +179,6 @@
     {
       "basename": "VLA教程",
       "path": "人形机器人/开源项目/蚂蚁灵波LingBot-VLA/VLA教程.md"
-    },
-    {
-      "basename": "方案设计",
-      "path": "人形机器人/场景策划/方案设计.md"
     },
     {
       "basename": "WAM",
@@ -191,14 +195,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Markdown语法速查",
-      "path": "Markdown语法速查.md"
-    },
-    {
-      "basename": "创新性项目思考",
-      "path": "创新性项目思考.md"
     }
   ],
   "omittedPaths": [],

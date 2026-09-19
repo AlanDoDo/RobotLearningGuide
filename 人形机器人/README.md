@@ -7,6 +7,8 @@ status: todo🌱
 quote: 初心高于胜负,成长大于输赢,然后自省,下一场见。
 ---
 
+![](assets/README/file-20260920005433932.png)
+
 开源资料
 
 青龙(单刚体) -- https://github.com/whyour/qinglong.git 
